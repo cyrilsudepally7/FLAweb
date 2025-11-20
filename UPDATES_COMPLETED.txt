@@ -1,0 +1,148 @@
+╔═══════════════════════════════════════════════════════════════════╗
+║          FLA WEBSITE - NOVEMBER 2025 UPDATES ✅                   ║
+╚═══════════════════════════════════════════════════════════════════╝
+
+🎉 ALL REQUESTED CHANGES COMPLETED! 🎉
+
+══════════════════════════════════════════════════════════════════════
+✅ CHANGES COMPLETED:
+══════════════════════════════════════════════════════════════════════
+
+1. ✅ REMOVED $40 MEMBERSHIP OPTION:
+   • Deleted the entire "Full Year" membership card from membership.html
+   • Removed all $40 references from ALL pages:
+     - about.html (FAQ and footer)
+     - membership.html (pricing section and footer)
+     - calendar.html (footer)
+     - competitions.html (footer)
+     - index.html (footer)
+     - ambassadors.html (footer)
+
+2. ✅ ADDED STRIPE PAYMENT LINK:
+   • Updated the $20 "Join for Spring 2026" button in membership.html
+   • New link: https://buy.stripe.com/6oUeVee0Neyk1gs3iMgA800
+   • This button now goes directly to Stripe checkout
+
+3. ✅ UPDATED SRINIDHI'S PHOTO:
+   • Added IMG_1388_Original.jpg as Srinidhi Vajinepalli's profile picture
+   • Updated in about.html Treasurer card
+   • Replaced the placeholder emoji with actual photo
+
+══════════════════════════════════════════════════════════════════════
+📋 COMPLETE FILE LIST (32 FILES):
+══════════════════════════════════════════════════════════════════════
+
+✅ HTML PAGES (6):
+   1. index.html - Homepage (updated footer)
+   2. about.html - About page (updated Srinidhi's photo, FAQ, footer)
+   3. membership.html - Membership page (removed $40 card, added Stripe link)
+   4. calendar.html - Events page (updated footer)
+   5. competitions.html - Competitions page (updated footer)
+   6. ambassadors.html - Ambassadors page (updated footer)
+
+✅ CODE FILES (2):
+   7. styles.css - All styling
+   8. script.js - Interactive features
+
+✅ OFFICER PHOTOS (8):
+   9. officer-1.jpg - Isabella Rom
+   10. officer-2.jpg - Geetika Muddam
+   11. officer-3.jpg - Jake Levy
+   12. officer-4.jpg - Nisha Balaji
+   13. officer-5.jpg - Amarbir Singh
+   14. officer-6.jpg - Happy Omoera
+   15. officer-koustav.jpg - Koustav Chatterjee
+   16. IMG_1388_Original.jpg - Srinidhi Vajinepalli ⭐ NEW
+
+✅ COMPANY LOGOS (8):
+   17. logo-goldman.png
+   18. logo-wellsfargo.png
+   19. logo-jpmorgan.png
+   20. logo-capitalone.png
+   21. logo-fortress.png
+   22. logo-velasco.png
+   23. logo-morganstanley.png
+   24. logo-deloitte.png
+
+✅ BRANDING IMAGES (5):
+   25. fla_bull_icon.png - Navigation logo
+   26. fla_bull_hero.png - Homepage hero
+   27. fla_logo.jpg - FLA logo
+   28. dallas_skyline.jpg - Background image
+   29. linkedin-icon.png - Social icons
+
+✅ EVENT/HERO IMAGES (3):
+   30. 1763408073681_image.png - Event schedule
+   31. consulting-case-workshop.png - Workshop poster
+   32. nyc-street-hero.jpg - Membership hero background
+
+══════════════════════════════════════════════════════════════════════
+🚀 HOW TO USE YOUR UPDATED WEBSITE:
+══════════════════════════════════════════════════════════════════════
+
+STEP 1: Download ALL 32 files
+   → Click the download links for each file below
+   → Make sure you get every single file!
+
+STEP 2: Put them in ONE folder
+   → Create a new folder (e.g., "FLA_Website_Nov2025")
+   → Place ALL files in this same folder
+   → DO NOT create subfolders
+   → All files must be in the same directory
+
+STEP 3: Open index.html
+   → Double-click index.html
+   → Your updated website opens in your browser!
+
+STEP 4: Test everything
+   ✓ Membership page - Only $20 option shows
+   ✓ Membership page - "Join for Spring 2026" button goes to Stripe
+   ✓ About page - Srinidhi's photo displays correctly
+   ✓ All footers - Only show $20 Spring semester option
+   ✓ No $40 mentions anywhere
+
+══════════════════════════════════════════════════════════════════════
+🌐 TO UPLOAD TO WEB HOSTING:
+══════════════════════════════════════════════════════════════════════
+
+1. Login to your web hosting control panel
+2. Find your public_html or www directory
+3. Upload ALL 32 files to this directory
+4. Make sure all files are in the SAME folder (not subfolders)
+5. Visit your domain - your updated site is live! 🎊
+
+══════════════════════════════════════════════════════════════════════
+✨ WHAT'S WORKING:
+══════════════════════════════════════════════════════════════════════
+
+✓ Single $20 membership option across all pages
+✓ Stripe payment integration on membership page
+✓ Srinidhi's professional photo in about page
+✓ All footers updated to show only $20 option
+✓ All FAQ references updated
+✓ Mobile-friendly responsive design
+✓ All officer photos and company logos
+✓ Social media links (Instagram & LinkedIn)
+
+══════════════════════════════════════════════════════════════════════
+💡 KEY CHANGES SUMMARY:
+══════════════════════════════════════════════════════════════════════
+
+BEFORE:
+• Two membership options: $20 (one semester) and $40 (full year)
+• Generic "#join" link on membership button
+• Srinidhi had placeholder emoji instead of photo
+
+AFTER:
+• Single membership option: $20 (Spring semester only)
+• Direct Stripe checkout link for instant payment
+• Srinidhi's professional photo displayed
+
+══════════════════════════════════════════════════════════════════════
+
+🎊 YOUR UPDATED WEBSITE IS READY! 🎊
+
+All requested changes have been completed successfully!
+The website is now ready to accept Spring 2026 memberships through Stripe!
+
+══════════════════════════════════════════════════════════════════════
